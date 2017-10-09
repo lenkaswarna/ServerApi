@@ -1,0 +1,44 @@
+[{
+        "id": 1501479097088,
+        "name": "John",
+        "picUrl": "Hello",
+        //"regNo":"",
+        "briefDescription": {
+            "speciality": "hey",
+            "experience": 2,
+            "description": "hhh"
+
+        },
+
+        /*"contact":{
+            "email":"abc@mail",
+            "phone":""
+
+        }*/
+        "status": "avaliable",
+        "waitingTime": 30,
+        "rating": 5,
+        "videoUrl": "hh",
+        "appearUrl": "hh",
+        "collapseId": "hh",
+        "thumbnailUrl": "hh",
+        "lastUpdateTime": "hh"
+    },
+    {
+        "id": 1507525429751,
+        "name": "Helen lenka",
+        "picUrl": "hhh",
+        "briefDescription": {
+            "speciality": "hey",
+            "experience": 5,
+            "description": "hhh"
+        },
+        "status": "avaliable",
+        "waitingTime": 30,
+        "videoUrl": "hh",
+        "appearUrl": "hh",
+        "collapseId": "hh",
+        "thumbnailUrl": "hh",
+        "lastUpdateTime": "hh"
+    }
+]
